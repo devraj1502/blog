@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>~/adver/1.png</ImageUrl>
+    <NavigateUrl>https://www.google.co.in</NavigateUrl>
+    <AlternateText>please visit</AlternateText>
+    <Impressions>10</Impressions>
+    <Keyword>Google</Keyword>
+     </Ad>
+  <Ad>
+    <ImageUrl>~/adver/adver1.png</ImageUrl>
+    <NavigateUrl>http://www.google.co.in/</NavigateUrl>
+    <AlternateText>please visit</AlternateText>
+    <Impressions>30</Impressions>
+    <Keyword>Google</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/adver/advr2.png</ImageUrl>
+    <NavigateUrl>http://www.google.co.in/</NavigateUrl>
+    <AlternateText>please visit</AlternateText>
+    <Impressions>20</Impressions>
+    <Keyword>Google</Keyword>
+  </Ad>
+  
+</Advertisements>

@@ -1,0 +1,74 @@
+﻿body 
+{
+    
+}
+.divForText
+{
+    position: absolute;
+    z-index: inherit;
+    top: 227px;
+    left: 128px;
+    width: 174px;
+    height: 67px;
+}
+
+.divForText2
+{
+    position: absolute;
+    z-index: inherit;
+}
+
+.divForText3
+{
+    position: absolute;
+    z-index: inherit;
+}
+.divForText4
+{
+    position: absolute;
+    z-index: inherit;
+    top: 335px;
+    left: 241px;
+    width: 763px;
+    height: 84px;
+    margin-top: 0px;
+}
+.divForText5
+{
+    position: absolute;
+    z-index: inherit;
+}
+.divForText6
+{
+    position: absolute;
+    z-index: inherit;
+    top: 344px;
+    left: 126px;
+    width: 176px;
+    height: 60px;
+    font-size: x-small;
+}
+
+.divForText7
+{
+    position: absolute;
+    z-index: inherit;
+    top: 349px;
+    left: 472px;
+    width: 166px;
+    height: 57px;
+    font-size: x-small;
+    margin-top: 0px;
+}
+
+
+.divForText8
+{
+    position: absolute;
+    z-index: inherit;
+    top: 354px;
+    left: 783px;
+    width: 158px;
+    height: 53px;
+    font-size: x-small;
+}
